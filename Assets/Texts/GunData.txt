@@ -1,0 +1,3 @@
+		Dmg	Frate	Stability	Zoom	ClipSize	Reload	MaxBullet	Cash	Gold	Time	Force	BaseAccurate
+M629	Base	12	1.5	45	1.2	6	3	36	0	0	0	0.4	20
+M10	Base	3.8	8	45	1.2	25	3.2	200	1000	0	0	0.1	30

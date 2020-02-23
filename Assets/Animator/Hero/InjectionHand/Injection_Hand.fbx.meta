@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 1856ddb540964d9499b96e444c130cd2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arm_left
+    100002: arm_right
+    100004: Bone001
+    100006: Bone002
+    100008: Bone003
+    100010: Bone004
+    100012: Bone005
+    100014: Bone006
+    100016: Bone007
+    100018: Bone008
+    100020: Bone009
+    100022: Bone010
+    100024: Bone011
+    100026: Bone012
+    100028: Bone013
+    100030: Bone014
+    100032: Bone015
+    100034: Bone016
+    100036: Bone017
+    100038: Bone018
+    100040: Bone021
+    100042: Bone037
+    100044: Bone038
+    100046: Bone039
+    100048: Bone040
+    100050: Bone041
+    100052: Bone042
+    100054: Bone043
+    100056: Bone044
+    100058: Bone045
+    100060: Bone046
+    100062: Bone047
+    100064: Bone048
+    100066: Bone049
+    100068: Bone050
+    100070: Bone051
+    100072: Bone052
+    100074: Bone053
+    100076: Bone054
+    100078: Bone_zhen
+    100080: Gun Camera
+    100082: GunBob
+    100084: GunFollowRot
+    100086: GunTrans
+    100088: Injection
+    100090: //RootNode
+    100092: Injection_Hand
+    100094: liquid
+    100096: MainCamera
+    100098: Offset
+    100100: Offset 1
+    100102: Offset 2
+    100104: zhen 01
+    100106: zhen 02
+    400000: arm_left
+    400002: arm_right
+    400004: Bone001
+    400006: Bone002
+    400008: Bone003
+    400010: Bone004
+    400012: Bone005
+    400014: Bone006
+    400016: Bone007
+    400018: Bone008
+    400020: Bone009
+    400022: Bone010
+    400024: Bone011
+    400026: Bone012
+    400028: Bone013
+    400030: Bone014
+    400032: Bone015
+    400034: Bone016
+    400036: Bone017
+    400038: Bone018
+    400040: Bone021
+    400042: Bone037
+    400044: Bone038
+    400046: Bone039
+    400048: Bone040
+    400050: Bone041
+    400052: Bone042
+    400054: Bone043
+    400056: Bone044
+    400058: Bone045
+    400060: Bone046
+    400062: Bone047
+    400064: Bone048
+    400066: Bone049
+    400068: Bone050
+    400070: Bone051
+    400072: Bone052
+    400074: Bone053
+    400076: Bone054
+    400078: Bone_zhen
+    400080: Gun Camera
+    400082: GunBob
+    400084: GunFollowRot
+    400086: GunTrans
+    400088: Injection
+    400090: Injection_Hand
+    400092: //RootNode
+    400094: liquid
+    400096: MainCamera
+    400098: Offset
+    400100: Offset 1
+    400102: Offset 2
+    400104: zhen 01
+    400106: zhen 02
+    2100000: arm glove
+    2100002: needle
+    2100004: m_fluid_02
+    2300000: liquid
+    2300002: zhen 01
+    2300004: zhen 02
+    3300000: liquid
+    3300002: zhen 01
+    3300004: zhen 02
+    4300000: arm_left
+    4300002: arm_right
+    4300004: zhen 02
+    4300006: zhen 01
+    4300008: liquid
+    7400000: INJECT
+    9500000: //RootNode
+    13700000: arm_left
+    13700002: arm_right
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

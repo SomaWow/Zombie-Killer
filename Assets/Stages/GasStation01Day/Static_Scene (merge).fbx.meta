@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: f0b76633c9bec1b42859799ec0c39484
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _Probe
+    100002: Mod_Collision
+    100004: Mod_Matel
+    100006: Mod_Shadow
+    100008: Mod_Wall
+    100010: Object3262
+    100012: Object3373
+    100014: Object3376
+    100016: Object3378
+    100018: Object3381
+    100020: Static_Scene
+    100022: //RootNode
+    100024: street_sky
+    400000: _Probe
+    400002: Mod_Collision
+    400004: Mod_Matel
+    400006: Mod_Shadow
+    400008: Mod_Wall
+    400010: Object3262
+    400012: Object3373
+    400014: Object3376
+    400016: Object3378
+    400018: Object3381
+    400020: Static_Scene
+    400022: //RootNode
+    400024: street_sky
+    2100000: xiaozhen04
+    2100002: xueji
+    2100004: jiayouzhan01
+    2100006: Tex_Grass
+    2100008: jiayouzhan02
+    2100010: tiankong
+    2300000: Object3262
+    2300002: Object3373
+    2300004: Object3376
+    2300006: Object3378
+    2300008: Object3381
+    2300010: street_sky
+    3300000: Object3262
+    3300002: Object3373
+    3300004: Object3376
+    3300006: Object3378
+    3300008: Object3381
+    3300010: street_sky
+    4300000: Object3262
+    4300002: Object3373
+    4300004: Object3376
+    4300006: Object3378
+    4300008: Object3381
+    4300010: street_sky
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

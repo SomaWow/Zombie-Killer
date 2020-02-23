@@ -1,0 +1,63 @@
+<ROOT>
+  <H>
+    <T>0</T>
+    <D>
+    </D>
+    <DK>12110</DK>
+    <E>0</E>
+    <C>0</C>
+    <M>townhospital01normal</M>
+    <S>
+    </S>
+  </H>
+  <ES>
+    <E Type="0">
+      <EB>1</EB>
+      <ED>0</ED>
+      <P>13.8,0,14</P>
+      <A>0,226,0</A>
+    </E>
+    <E Type="20">
+      <EB>1</EB>
+      <ED>0</ED>
+      <WS>
+        <W>
+          <T>sp.screamer</T>
+          <D>4</D>
+          <IC>1</IC>
+          <AC>1</AC>
+          <IT>0</IT>
+          <AT>0</AT>
+          <P>5.5,0,10.8</P>
+          <R>0.2875748</R>
+        </W>
+      </WS>
+    </E>
+    <E Type="20">
+      <EB>1</EB>
+      <ED>0</ED>
+      <WS>
+        <W>
+          <T>sp.screamer</T>
+          <D>4</D>
+          <IC>1</IC>
+          <AC>1</AC>
+          <IT>0</IT>
+          <AT>0</AT>
+          <P>3.42,0,8.84</P>
+          <R>0</R>
+        </W>
+        <W>
+          <T>sp.screamer</T>
+          <D>2</D>
+          <IC>2</IC>
+          <AC>2</AC>
+          <IT>0</IT>
+          <AT>0</AT>
+          <P>8.15,0,4.45</P>
+          <R>0</R>
+        </W>
+      </WS>
+    </E>
+  </ES>
+</ROOT>

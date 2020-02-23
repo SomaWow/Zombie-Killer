@@ -1,0 +1,84 @@
+public enum StgEventType
+{
+	HeroBorn = 0,
+	HeroMove = 1,
+	HeroGet = 2,
+	Conversation = 10,
+	ZombieBorn = 20,
+	NPCBorn = 30,
+	NPCMove = 0x1f,
+	NPCDeliver = 0x20,
+	PrefabBorn = 40,
+	PrefabBornZombie = 0x2a,
+	CameraWander = 5022
+}
+
+
+
+
+<ROOT>
+  <H>                                    这个node可以生成一个StgDataHead
+    <T>0</T>                             T:stgType
+    <D>                                  D:describe
+    </D>
+    <DK>12110</DK>                       DK:describe
+    <E>0</E>                             E:stgEndType
+    <C>0</C>                             C:endCount
+    <M>TownHospital01Normal</M>          M:map
+    <S>                                  S:special
+    </S>
+  </H>
+  <ES>
+    <E Type="0">                         HeroBorn
+      <EB>1</EB>
+      <ED>0</ED>
+      <P>29.2795,0.2114999,29.38901</P>  Position
+      <A>0,225.6217,0</A>                Angle
+    </E>
+    <E Type="20">                        ZombieBorn
+      <EB>1</EB>
+      <ED>0</ED>
+      <WS>
+        <W>
+          <T>8</T>      Type,僵尸类型         改成了name
+          <B>13</B>     Behaviour,僵尸行为    去掉这个，暂时用不上
+          <D>0</D>      WaveDelay,延迟
+          <IC>1</IC>    MinCount,最小数量
+          <AC>1</AC>    MaxCount,最大数量
+          <IT>0</IT>    MinInterval,最小间隔
+          <AT>0</AT>    MaxInterval,最大间隔
+          <P>11.20662,0.2114999,22.21498</P>   位置
+          <R>0.2875748</R>   
+        </W>
+      </WS>
+    </E>
+    <E Type="20">                        ZombieBorn
+      <EB>1</EB>
+      <ED>0</ED>
+      <WS>
+        <W>
+          <T>40</T>
+          <B>13</B>
+          <D>4</D>
+          <IC>1</IC>
+          <AC>1</AC>
+          <IT>0</IT>
+          <AT>0</AT>
+          <P>11.43293,0.2114999,21.81185</P>
+          <R>0</R>
+        </W>
+        <W>
+          <T>8</T>
+          <B>13</B>
+          <D>2</D>
+          <IC>2</IC>
+          <AC>2</AC>
+          <IT>0</IT>
+          <AT>0</AT>
+          <P>15.17442,0.2114999,7.714163</P>
+          <R>0</R>
+        </W>
+      </WS>
+    </E>
+  </ES>
+</ROOT>

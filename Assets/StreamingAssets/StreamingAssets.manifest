@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1630730767
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: _scenetownhospital01normal.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: _stgdatas.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: _scenegasstation01day.assetbundle
+      Dependencies: {}

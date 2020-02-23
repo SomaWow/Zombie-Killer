@@ -1,0 +1,8 @@
+{"dataMap":[{"mapName":"Town","mainLine":{"_p0x":0,"_p0y":0,"_p0z":0,"missionType":0,"datas":[{"configureName":"Town_00_00","title":"Mission 1","description":"You wake up in the hospital to the sound of moaning. Zombies are all around, protect yourself.","descriptionkey":"11000","tag":null,"mode":0,"survivalTime":0,"killNumber":0,"bossType":0,"gunLearnType":0,"baseReward":300,"powerCost":1,"hardness":0,"_recommandWeaponScore":10000,"_recommandWeaponDmg":0,"_recommandWeaponStable":0,"_recommandWeaponScopeScale":0,"recommandWeaponClipNumber":0,"_weaponDamageReduce":100},{"configureName":"Town_00_01","title":"Mission 2","description":"The zombies just keep coming, you have to get out of here.","descriptionkey":"11001","tag":null,"mode":0,"survivalTime":0,"killNumber":0,"bossType":0,"gunLearnType":0,"baseReward":305,"powerCost":1,"hardness":0,"_recommandWeaponScore":143000,"_recommandWeaponDmg":0,"_recommandWeaponStable":0,"_recommandWeaponScopeScale":0,"recommandWeaponClipNumber":0,"_weaponDamageReduce":100},{"configureName":"Town_00_02","title":"Mission 3","description":"You found a survivor, [FFFF00]protect her[-].","descriptionkey":"11002","tag":null,"mode":0,"survivalTime":0,"killNumber":0,"bossType":0,"gunLearnType":0,"baseReward":310,"powerCost":1,"hardness":0,"_recommandWeaponScore":177000,"_recommandWeaponDmg":0,"_recommandWeaponStable":0,"_recommandWeaponScopeScale":0,"recommandWeaponClipNumber":0,"_weaponDamageReduce":120}]}}]}
+
+configureName
+title
+description
+baseReward
+hardness
+
